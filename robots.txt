@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://blocknums.example/sitemap.xml
+Sitemap: https://elboz73.github.io/blocknums-website/sitemap.xml
