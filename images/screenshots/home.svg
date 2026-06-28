@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 760" width="360" height="760">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="760" fill="url(#bg)"/>
+  <rect x="20" y="40" width="320" height="80" rx="20" fill="#fff" stroke="#E2E8F0"/>
+  <text x="40" y="80" font-family="system-ui" font-size="20" font-weight="600" fill="#0F172A">BlockNums</text>
+  <text x="40" y="105" font-family="system-ui" font-size="13" fill="#64748B">Accueil</text>
+  <rect x="20" y="140" width="320" height="120" rx="18" fill="#5EEAD4" opacity="0.18"/>
+  <text x="40" y="180" font-family="system-ui" font-size="14" fill="#0F172A">Aujourd'hui</text>
+  <text x="40" y="210" font-family="system-ui" font-size="32" font-weight="700" fill="#0F172A">12 bloqués</text>
+  <text x="40" y="235" font-family="system-ui" font-size="12" fill="#475569">3 numéros, 2 modèles</text>
+  <rect x="20" y="280" width="320" height="80" rx="18" fill="#fff" stroke="#E2E8F0"/>
+  <rect x="20" y="370" width="320" height="80" rx="18" fill="#fff" stroke="#E2E8F0"/>
+  <rect x="20" y="460" width="320" height="80" rx="18" fill="#fff" stroke="#E2E8F0"/>
+  <text x="180" y="710" text-anchor="middle" font-family="system-ui" font-size="11" fill="#94A3B8">Aperçu  Accueil</text>
+</svg>

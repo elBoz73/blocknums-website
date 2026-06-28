@@ -1,0 +1,5 @@
+# Cloudflare Pages: minimal fallback for unknown URLs.
+# The root page itself contains a JS-based language redirect; this rule
+# makes sure deep typos still land on a valid locale instead of a 404.
+/   /en/   302
+/*  /en/   404

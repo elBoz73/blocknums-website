@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 760" width="360" height="760">
+  <defs>
+    <linearGradient id="cta" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="760" fill="#F8FAFC"/>
+  <rect x="20" y="60" width="320" height="640" rx="22" fill="#fff" stroke="#E2E8F0"/>
+  <text x="180" y="120" text-anchor="middle" font-family="system-ui" font-size="22" font-weight="700" fill="#0F172A">Passer Premium</text>
+  <text x="180" y="148" text-anchor="middle" font-family="system-ui" font-size="13" fill="#475569">Achat unique. Pas d'abonnement.</text>
+  <g font-family="system-ui" font-size="13" fill="#0F172A">
+    <text x="50" y="200"> Numéros bloqués illimités</text>
+    <text x="50" y="232"> Modèles illimités + regex avancé</text>
+    <text x="50" y="264"> Liste VIP</text>
+    <text x="50" y="296"> Futures fonctions Premium</text>
+  </g>
+  <rect x="40" y="380" width="280" height="56" rx="999" fill="url(#cta)"/>
+  <text x="180" y="415" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="#0F172A">Acheter Premium</text>
+  <text x="180" y="460" text-anchor="middle" font-family="system-ui" font-size="11" fill="#94A3B8">Prix affiché par Google Play</text>
+</svg>

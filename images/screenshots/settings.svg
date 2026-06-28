@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 760" width="360" height="760">
+  <rect width="360" height="760" fill="#F8FAFC"/>
+  <rect x="20" y="40" width="320" height="60" rx="16" fill="#fff" stroke="#E2E8F0"/>
+  <text x="40" y="78" font-family="system-ui" font-size="18" font-weight="600" fill="#0F172A">Réglages</text>
+  <g font-family="system-ui" font-size="13" fill="#0F172A">
+    <rect x="20" y="120" width="320" height="56" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <text x="40" y="154">Filtrage par défaut</text>
+    <text x="320" y="154" text-anchor="end" fill="#5EEAD4" font-weight="600">Activé</text>
+    <rect x="20" y="186" width="320" height="56" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <text x="40" y="220">Statistiques anonymes</text>
+    <text x="320" y="220" text-anchor="end" fill="#94A3B8">On</text>
+    <rect x="20" y="252" width="320" height="56" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <text x="40" y="286">Pays par défaut</text>
+    <text x="320" y="286" text-anchor="end" fill="#94A3B8">FR</text>
+    <rect x="20" y="318" width="320" height="56" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <text x="40" y="352">Conditions d'utilisation</text>
+    <text x="320" y="352" text-anchor="end" fill="#94A3B8">:</text>
+  </g>
+</svg>

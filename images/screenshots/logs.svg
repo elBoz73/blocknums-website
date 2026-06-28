@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 760" width="360" height="760">
+  <rect width="360" height="760" fill="#F8FAFC"/>
+  <rect x="20" y="40" width="320" height="60" rx="16" fill="#fff" stroke="#E2E8F0"/>
+  <text x="40" y="78" font-family="system-ui" font-size="18" font-weight="600" fill="#0F172A">Historique</text>
+  <g font-family="system-ui" font-size="12" fill="#0F172A">
+    <rect x="20" y="120" width="320" height="60" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <circle cx="42" cy="150" r="6" fill="#FB7185"/>
+    <text x="58" y="146" font-weight="600">Bloqué</text>
+    <text x="58" y="164" fill="#475569">+33 1 89 99 ... · 14:32</text>
+    <rect x="20" y="190" width="320" height="60" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <circle cx="42" cy="220" r="6" fill="#5EEAD4"/>
+    <text x="58" y="216" font-weight="600">Laissé passer</text>
+    <text x="58" y="234" fill="#475569">Maman · 12:11</text>
+    <rect x="20" y="260" width="320" height="60" rx="14" fill="#fff" stroke="#E2E8F0"/>
+    <circle cx="42" cy="290" r="6" fill="#FB7185"/>
+    <text x="58" y="286" font-weight="600">Bloqué (modèle)</text>
+    <text x="58" y="304" fill="#475569">0899* · 09:42</text>
+  </g>
+</svg>

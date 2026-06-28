@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://blocknums.example/fr/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://blocknums.example/fr/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://blocknums.example/en/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blocknums.example/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blocknums.example/de/" />
+<lastmod>2026-05-25T08:42:48.862Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://blocknums.example/en/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://blocknums.example/fr/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://blocknums.example/en/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blocknums.example/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blocknums.example/de/" />
+<lastmod>2026-05-25T08:42:48.862Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://blocknums.example/es/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://blocknums.example/fr/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://blocknums.example/en/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blocknums.example/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blocknums.example/de/" />
+<lastmod>2026-05-25T08:42:48.862Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://blocknums.example/de/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://blocknums.example/fr/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://blocknums.example/en/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://blocknums.example/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://blocknums.example/de/" />
+<lastmod>2026-05-25T08:42:48.862Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
