@@ -1,12 +1,12 @@
-Deploiement GitHub Pages
+Deploiement GitHub Pages — blocknums-website
 
-Copiez TOUT le contenu de out/ a la racine du repo blocknums-website.
+1. npm run build:github-pages  (dans apps/web)
+2. Copier TOUT le contenu de out/ a la RACINE du repo blocknums-website
+3. Commit + push blocknums-website
 
-Le build renomme _next/ en assets/ (Jekyll ignore les dossiers _*).
-Ne renommez pas assets/ manuellement.
+IMPORTANT: remplacer tout le contenu (pas de melange ancien/nouveau).
+Le dossier assets/ doit exister (ex-_next renomme).
 
-Optionnel : .nojekyll a la racine (fichier cache sous Windows).
-
-Test apres deploy :
-  https://elboz73.github.io/blocknums-website/assets/static/css/
-  doit repondre 200 (pas 404).
+Test apres deploy (~1 min):
+  https://elboz73.github.io/blocknums-website/fr/
+  https://elboz73.github.io/blocknums-website/assets/static/chunks/webpack-*.js

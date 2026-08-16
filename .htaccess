@@ -1,0 +1,22 @@
+# o2switch / Apache: minimal fallback when serving the static export.
+# Browsers loading "/" already receive index.html which performs the JS
+# language redirect; this rewrite covers unknown paths.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # If file or directory does not exist, fall back to /en/
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /en/index.html [L]
+</IfModule>
+
+# Sensible defaults
+AddType image/webp .webp
+AddType image/svg+xml .svg
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+</IfModule>
